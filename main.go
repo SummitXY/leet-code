@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(sort3.QuickSort([]int{4, 8, 9, 7, 2, 5, 1}))
+	fmt.Println(sort3.SelectSort([]int{4, 8, 10, 7, 2, 5, 1}))
 }
